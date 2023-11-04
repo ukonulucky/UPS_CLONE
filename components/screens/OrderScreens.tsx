@@ -3,7 +3,7 @@ import React from 'react'
 
 const OrderScreens = () => {
   return (
-    <View>
+    <View className="bg-green-400 flex-1">
       <Text>OrderScreens</Text>
     </View>
   )
